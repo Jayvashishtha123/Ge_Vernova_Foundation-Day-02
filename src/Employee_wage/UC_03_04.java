@@ -1,7 +1,7 @@
 package Employee_wage;
 import java.util.Random;
 
-public class UC_03 {
+public class UC_03_04 {
     public static void main(String[] args) {
         //USE-CASE-03:- Add Part tim Employee & Wage
 
